@@ -8,10 +8,10 @@
 [node name="World" type="Node2D"]
 
 [node name="player" parent="." instance=ExtResource("1_oynkp")]
-position = Vector2(264, 326)
+position = Vector2(222, 344)
 
 [node name="enemy" parent="." instance=ExtResource("2_21h62")]
-position = Vector2(826, 316)
+position = Vector2(871, 353)
 
 [node name="BGMusic" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("3_xw2vx")
